@@ -11,6 +11,15 @@
     <title>Title</title>
 </head>
 <body>
-    <a href="welcome">first mvc</a>
+<a href="handler/welcome/">first mvc</a><br/>
+
+<a href="handler/welcome33/wwwe">wel33</a>
+<form action="handler/welcome/" method="post">
+    name:<input name="name2"><br/>
+    age:<input name="age2">
+    <input type="submit" value="post">
+</form>
+
+
 </body>
 </html>
